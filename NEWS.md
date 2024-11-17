@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gtsummary (development version)
 
 * The `with_gtsummary_theme()` has been updated to no longer print theme names when the applied, nor when the original theme is re-applied. (#2031)
@@ -12,6 +13,8 @@
 
 * Added S3 methods `add_overall.tbl_hierarchical()` and `add_overall.tbl_hierarchical_count()`.
 
+=======
+>>>>>>> parent of c1b7f2616 (Increment version number to 2.0.3.9000)
 # gtsummary 2.0.3
 
 ### New Features and Functions
